@@ -1,0 +1,5 @@
+name: datascience
+channels:
+  - defaults
+prefix: /home/angelsan720/miniconda3/envs/datascience/envs/datascience
+
